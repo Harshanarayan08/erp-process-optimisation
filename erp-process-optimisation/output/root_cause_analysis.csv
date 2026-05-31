@@ -1,0 +1,4 @@
+issue,impact_lakh,root_cause
+Revenue Leakage (₹40L/yr),40,Root cause: No unified ERP — data lives in 6 disconnected Excel files
+Process Inefficiency (₹28L/yr),28,Root cause: Absence of integrated workflow management system
+Reporting Delays (₹12L/yr),12,Root cause: No centralised data warehouse or real-time reporting layer

@@ -1,0 +1,7 @@
+process,cycle_days,error_rate_pct,fte_hours_month,annual_cost_lakh,bottleneck
+Procurement,18,12,320,28,Manual 3-way match causes 6-day average delay
+Invoicing,14,18,210,19,Manual data entry error rate 18% — triggers rework loops
+Inventory,7,15,280,42,No real-time visibility — stockouts discovered post-facto
+HR & Payroll,5,8,160,14,Payroll rework due to attendance data mismatches
+Sales,10,10,240,22,Disconnected CRM and billing — duplicate data entry
+Reporting & MIS,4,20,190,16,MIS reports take 4 days — decisions made on stale data
